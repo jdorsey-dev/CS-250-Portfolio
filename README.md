@@ -1,5 +1,4 @@
 # CS-250-Portfolio
-Portfolio artifact and reflection from CS 250: Software Development Lifecycle
 This repository contains my Sprint Review and Retrospective from CS 250. The course focused on Agile and Scrum practices, including user stories, team roles, communication, and adapting to changing requirements throughout the software development process.
 
 ## How do I interpret user needs and implement them into a program? How does creating user stories help with this?
